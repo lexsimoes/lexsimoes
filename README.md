@@ -7,7 +7,7 @@ I’m passionate about technology user-centric products built by solution-driven
 + 🌱 I’m currently learning through Codecademy Fullstack Engineer Path 
 + 💞️ I’m looking to collaborate on projects involving HTML, CSS, JS, Ruby On Rails, Express.js, PHP and React
 + 📫 Reach me -> lexsimoes@yahoo.com
-+ 🙋‍♂️ Portfolio- https://lexsimoes.dev/
++ 🙋‍♂️ Portfolio- <a href="https://lexsimoes.dev/" target="blank">lexsimoes.dev</a>
 > 🌍 I'm available to work worldwide
 
 <h3 align="left">Connect with me:</h3>
